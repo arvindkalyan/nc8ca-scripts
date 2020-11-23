@@ -292,11 +292,11 @@ def checkPostProgRig(pre, post,teamDict):
     
                     
                     
-prog = 'burrito.json'
+prog = '.json'
 obj1 = getJSON(prog)                   
            
 
-test = 'purdue.json'
+test = '.json'
 obj2 = getJSON(test)
 
 teamDict = getTIDs(obj1)
